@@ -2,7 +2,7 @@
 
 _Let go of the Aggregate - EventSourcing in PHP with the Dynamic Consistency Boundary (DCB) pattern._
 
-**Example project:** 
+**Example project / Proof of Concept:** 
 - [example-event-sourcing-dcb](https://github.com/GemberPHP/example-event-sourcing-dcb)
 
 **Main repository:** 
