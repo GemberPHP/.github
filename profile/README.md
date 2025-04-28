@@ -6,7 +6,7 @@ _Let go of the Aggregate - EventSourcing in PHP with the Dynamic Consistency Bou
 - [example-event-sourcing-dcb](https://github.com/GemberPHP/example-event-sourcing-dcb)
 
 **Main repository:** 
-- [example-event-sourcing-dcb](https://github.com/GemberPHP/event-sourcing)
+- [event-sourcing](https://github.com/GemberPHP/event-sourcing)
 
 **Symfony Bundle:** 
 - [event-sourcing-symfony-bundle](https://github.com/GemberPHP/event-sourcing-symfony-bundle)
