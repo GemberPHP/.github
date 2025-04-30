@@ -12,7 +12,7 @@ Example project / Proof of Concept:
 - [example-event-sourcing-dcb](https://github.com/GemberPHP/example-event-sourcing-dcb)
 
 Main repository:
-- [event-sourcing](https://github.com/GemberPHP/event-sourcing)
+- [event-sourcing](https://github.com/GemberPHP/event-sourcing) (including docs ✍️)
 
 Symfony Bundle:
 - [event-sourcing-symfony-bundle](https://github.com/GemberPHP/event-sourcing-symfony-bundle)
