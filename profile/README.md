@@ -1,18 +1,14 @@
 ## Gember Event Sourcing
 
-_Let go of the Aggregate - EventSourcing in PHP with the Dynamic Consistency Boundary (DCB) pattern._
-
-**What is Event Sourcing with _Dynamic Consistency Boundary_?**
-
-Read: https://github.com/GemberPHP/event-sourcing/blob/main/docs/background.md
+_Use case driven EventSourcing - Let go of the Aggregate with the Dynamic Consistency Boundary (DCB) pattern._
 
 ### Repositories
 
-Example project / Proof of Concept:
-- [example-event-sourcing-dcb](https://github.com/GemberPHP/example-event-sourcing-dcb)
-
 Main repository:
 - [event-sourcing](https://github.com/GemberPHP/event-sourcing) (including docs ✍️)
+
+Example project / Proof of Concept:
+- [example-event-sourcing-dcb](https://github.com/GemberPHP/example-event-sourcing-dcb)
 
 Symfony Bundle:
 - [event-sourcing-symfony-bundle](https://github.com/GemberPHP/event-sourcing-symfony-bundle)
