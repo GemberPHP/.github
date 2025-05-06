@@ -11,8 +11,10 @@ Main repository:
 Example project / Proof of Concept:
 - [example-event-sourcing-dcb](https://github.com/GemberPHP/example-event-sourcing-dcb)
 
-Symfony Bundle:
+Bundles/Service providers:
 - [event-sourcing-symfony-bundle](https://github.com/GemberPHP/event-sourcing-symfony-bundle)
+- [event-sourcing-universal-service-provider](https://github.com/GemberPHP/event-sourcing-universal-service-provider)<br>
+  _Compatible with any application or framework that supports [container-interop/service-provider](https://github.com/container-interop/service-provider)_
 
 Dependency adapters:
 - [rdbms-event-store-doctrine-dbal](https://github.com/GemberPHP/rdbms-event-store-doctrine-dbal)
