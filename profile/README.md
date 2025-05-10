@@ -23,4 +23,3 @@ Dependency adapters:
 - [file-finder-symfony](https://github.com/GemberPHP/file-finder-symfony)
 - [file-reflector-roave](https://github.com/GemberPHP/file-reflector-roave)
 - [serializer-symfony](https://github.com/GemberPHP/serializer-symfony)
-- [cache-psr](https://github.com/GemberPHP/cache-psr)
