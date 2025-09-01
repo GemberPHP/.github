@@ -21,5 +21,4 @@ Dependency adapters:
 - [message-bus-symfony](https://github.com/GemberPHP/message-bus-symfony)
 - [identity-generator-symfony](https://github.com/GemberPHP/identity-generator-symfony)
 - [file-finder-symfony](https://github.com/GemberPHP/file-finder-symfony)
-- [file-reflector-roave](https://github.com/GemberPHP/file-reflector-roave)
 - [serializer-symfony](https://github.com/GemberPHP/serializer-symfony)
