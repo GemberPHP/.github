@@ -6,7 +6,7 @@ _Use case driven EventSourcing - Let go of the Aggregate with the Dynamic Consis
 
 Main repository:
 - [event-sourcing](https://github.com/GemberPHP/event-sourcing)
-  - ✍️ [in a nutshell](https://github.com/GemberPHP/event-sourcing?tab=readme-ov-file#in-a-nutshell) / [background](https://github.com/GemberPHP/event-sourcing/blob/main/docs/background.md) / [usage](https://github.com/GemberPHP/event-sourcing/blob/main/docs/usage.md)
+  - ✍️ [documentation](https://gemberphp.github.io/event-sourcing/))
 
 Example project / Proof of Concept:
 - [example-event-sourcing-dcb](https://github.com/GemberPHP/example-event-sourcing-dcb)
